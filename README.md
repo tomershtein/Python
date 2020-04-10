@@ -1,2 +1,1 @@
-# Python
-School projects using Juniper notebook and libaries such as Matplotlib and numpy
+Some of the things I try to create with Python using Jupyter Notebook.
